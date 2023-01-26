@@ -5,9 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-
-        "test": "jest --watchAll",
-    "test": "jest --watchAll --coverage",
+    "test": "jest --watchAll --coverage"
   },
   "keywords": [],
   "author": "",
